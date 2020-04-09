@@ -20,9 +20,8 @@ Run ExeUpdate.exe as an administrator to register and control the .EXU extension
 
 Create the shortcut on the desktop [application] .EXU we will always start the application with this shortcut.
 
-see the video showing how to configure it. https://www.youtube.com/watch?v=8L5gBPS0gRc
-
-download the examples
+Video 1 (OLD) see the video showing how to configure it. https://www.youtube.com/watch?v=8L5gBPS0gRc
+Video 2 (now)- see the video showing how to configure it. https://youtu.be/g3NYyRJpOdg
 
 
 Portugues
@@ -43,6 +42,8 @@ Execute o ExeUpdate.exe como administrador, para que ele faça o registro e cont
 
 Crie o atalho na area de trabalho [application].EXU sempre iniciaremos o aplicativo com esse atalho.
 
-veja o vide-o mostrando com o configurar. https://www.youtube.com/watch?v=8L5gBPS0gRc
+Video 1 - (Desatualizado) veja o vide-o mostrando com o configurar. https://www.youtube.com/watch?v=8L5gBPS0gRc
+
+Video 2 - (atual_) veja o vide-o mostrando com o configurar https://youtu.be/g3NYyRJpOdg
 
 baixe os exemplos
