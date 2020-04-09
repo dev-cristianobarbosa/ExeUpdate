@@ -21,6 +21,7 @@ Run ExeUpdate.exe as an administrator to register and control the .EXU extension
 Create the shortcut on the desktop [application] .EXU we will always start the application with this shortcut.
 
 Video 1 (OLD) see the video showing how to configure it. https://www.youtube.com/watch?v=8L5gBPS0gRc
+
 Video 2 (now)- see the video showing how to configure it. https://youtu.be/g3NYyRJpOdg
 
 
